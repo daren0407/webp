@@ -1,0 +1,14 @@
+@media (max-width:800px){
+    img{
+        width:50%;
+        height:50%;
+    }
+}
+@media (max-width:1000px) {
+    h1{
+        color: blue;
+    }
+}
+body {
+    background-color: blanchedalmond;
+}
